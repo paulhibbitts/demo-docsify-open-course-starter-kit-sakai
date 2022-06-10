@@ -2,7 +2,7 @@
 
 # Welcome to CPT-363 User Interface Design 👋🏼  
 
- To help orientate yourself to the course, explore the [course syllabus](https://canvas.sfu.ca/courses/44038/assignments/syllabus). You may also want to view a brief tour of [Blackboard Collaborate Ultra](https://www.youtube.com/watch?v=1W4sGpVmJaY).
+ To help orientate yourself to the course, explore the [course assignments](https://trysakai.longsight.com/portal/directtool/0ee2ea22-6216-4625-b0c1-021535e61830/). You may also want to view a brief tour of [Blackboard Collaborate Ultra](https://www.youtube.com/watch?v=1W4sGpVmJaY).
 
 Is this your first online course? If so, you might find these articles might be of help:
 
