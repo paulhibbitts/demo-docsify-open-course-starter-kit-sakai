@@ -4,6 +4,7 @@
 - [Week 3 (May 23 - 29)](module-03)
 - [Week 4 (May 30 - Jun 5)](module-04)
 - **LMS Links**
+- [![Dashboard Icon](https://icongr.am/fontawesome/tachometer.svg?size=16&color=808080)Dashboard](https://trysakai.longsight.com/portal/directtool/e0a155f5-25b9-472b-b0b0-5365d0bcf880/)
 - [![Assignments Icon](https://icongr.am/fontawesome/file-text.svg?size=16&color=808080)Assignments](https://trysakai.longsight.com/portal/directtool/0ee2ea22-6216-4625-b0c1-021535e61830/)
 - [![Tests & Quizzes Icon](https://icongr.am/fontawesome/check-square-o.svg?size=16&color=808080)Tests & Quizzes](https://trysakai.longsight.com/portal/directtool/c0d1a2d1-c589-4bdc-b1d8-af14e4707005/)
 - [![Gradebook Icon](https://icongr.am/fontawesome/book.svg?size=16&color=808080)Gradebook](https://trysakai.longsight.com/portal/directtool/e2d748f3-a6b8-44ee-a93f-13388c40873e/)
