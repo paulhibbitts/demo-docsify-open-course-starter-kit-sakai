@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/chat-on%20discord-7289DA.svg" alt="Docsify Discord Chat" />
 </a>
 
-> This is a starter kit to quickly create a Markdown-based open course site with the site generator [Docsify](https://docsify.js.org). Global navigation elements can be hidden for seamlessly embedding pages (i.e., into an LMS). Includes an optional "Edit this Page" link.
+> This is a starter kit to quickly create a Markdown-based open course site with the site generator [Docsify](https://docsify.js.org). Global navigation elements can be hidden for seamlessly embedding pages (i.e., into an LMS). Includes an optional "Edit this Page" link.  
 > For Sakai specific info, please view [Docsify Open Course Starter Kit: How to Embed Docsify Site Pages into the Sakai LMS](https://docs.google.com/document/d/1Wd36Gc3yWbYMnOtgRaqwHcsI_igts0fRCnqUDmqrR7A/edit?usp=sharing), kindly authored by Alan Ragan.
 
 📸 Docsify Open Course Screenshots
