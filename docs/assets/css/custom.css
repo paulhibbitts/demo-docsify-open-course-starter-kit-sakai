@@ -14,14 +14,6 @@ body .markdown-section {
     font-size: 14px;
 }
 
-.markdown-section blockquote {
-  border-color: #757b7f;
-}
-
-.markdown-section .alert {
-  border-color: #757b7f;
-}
-
 .progress {
   background-color: #757b7f;
 }
