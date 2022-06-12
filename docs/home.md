@@ -1,4 +1,4 @@
-> # What’s Happening This Week
+> # What’s Happening This Week!
 > ## How to explore the problem space?
 > ### Important Reminders
 > * [Journey Map](https://trysakai.longsight.com/portal/directtool/0ee2ea22-6216-4625-b0c1-021535e61830/) assignment <span class='badge'> Tue Jun 12th 11:59pm PDT</span>
